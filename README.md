@@ -41,7 +41,7 @@ The code allows flexibility to modify:
 ## Usage
 
 ```bash
-python minimization.py
+python poliacetileno_verlet_crank_nicholson.py
 ```
 ## Notes
 
